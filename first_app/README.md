@@ -1,4 +1,5 @@
-== Ruby on Rails チュートリアル：サンプルアプリケーション
+== Ruby on Rails 
+Sample Application
 
 This is the first application for the
 [Ruby on Rails Tutorial*](http://railstutorial.jp/)
